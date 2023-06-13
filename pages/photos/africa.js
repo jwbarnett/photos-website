@@ -2,7 +2,7 @@ import Header from '../../components/Header';
 import Image from "next/legacy/image";
 import PhotoTitle from '../../components/PhotoTitle';
 
-const photoRoot = "http://d1rq5uutlsdhk7.cloudfront.net/small/2015-africa";
+const photoRoot = "https://d1rq5uutlsdhk7.cloudfront.net/small/2015-africa";
 
 const Africa = () => {
   return (

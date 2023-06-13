@@ -14,25 +14,25 @@ const Photos = () => {
 
       <div className="flex flex-wrap justify-center mt-8">
         <PhotoTile
-            photo="http://d1rq5uutlsdhk7.cloudfront.net/small/scotland/clashnessie-falls.jpg"
+            photo="https://d1rq5uutlsdhk7.cloudfront.net/small/scotland/clashnessie-falls.jpg"
             titleText="Scotland"
             subtitleText="August 2020"
             link="/photos/scotland"
             blurbText="Some photos taken while driving along the scenic NC500" />
         <PhotoTile
-            photo="http://d1rq5uutlsdhk7.cloudfront.net/small/new-york/flags.jpg"
+            photo="https://d1rq5uutlsdhk7.cloudfront.net/small/new-york/flags.jpg"
             titleText="New York"
             subtitleText="September 2019"
             link="/photos/new-york"
             blurbText="Brief tour of the city while over for a wedding" />
         <PhotoTile
-            photo="http://d1rq5uutlsdhk7.cloudfront.net/small/2018-japan/miyajima.jpg"
+            photo="https://d1rq5uutlsdhk7.cloudfront.net/small/2018-japan/miyajima.jpg"
             titleText="Japan"
             subtitleText="August 2018"
             link="/photos/japan"
             blurbText="Nearly three weeks travelling around some incredible cities" />
         <PhotoTile
-            photo="http://d1rq5uutlsdhk7.cloudfront.net/small/2015-africa/kilimanjaro.jpg"
+            photo="https://d1rq5uutlsdhk7.cloudfront.net/small/2015-africa/kilimanjaro.jpg"
             titleText="Africa"
             subtitleText="December 2015"
             link="/photos/africa"
