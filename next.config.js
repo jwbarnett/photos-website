@@ -3,6 +3,5 @@ module.exports = {
     domains: ['d1rq5uutlsdhk7.cloudfront.net'],
     unoptimized: true
   },
-  output: 'standalone',
-  assetPrefix: './'
+  output: 'standalone'
 }
